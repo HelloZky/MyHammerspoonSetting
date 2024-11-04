@@ -1,7 +1,7 @@
 --
 -- Load the information from the Alfred configuration.
 --
-require("alfred")
+require("window_manager")
 
 --
 -- Place all your functions and configurations here. Running "hs:upgrade" will just
